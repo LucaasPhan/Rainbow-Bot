@@ -1,5 +1,5 @@
 
-# **Rainbow Discord Bot** ![This is a git commit](https://img.shields.io/github/last-commit/mitelite/rainbow-bot?color=green)
+# **Rainbow Discord Bot - DISCONTINUED** ![This is a git commit](https://img.shields.io/github/last-commit/mitelite/rainbow-bot?color=green)
 ## Features
 - Moderation
 - Fun
