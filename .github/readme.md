@@ -14,4 +14,3 @@
 
 License under [MIT License](./license.md)
 ***
-![This is a image](../assets/BannerRainbowBot.png)
